@@ -3,4 +3,6 @@
 4 fierros	
 8 consolas
 9 camiones
-12 cartuchos
+14 metales	
+78 pistones
+48 palas
