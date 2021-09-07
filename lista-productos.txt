@@ -6,3 +6,4 @@
 14 metales	
 78 pistones
 48 palas
+7 lapiceras
