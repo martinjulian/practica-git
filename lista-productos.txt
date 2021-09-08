@@ -8,3 +8,4 @@
 78 pistones
 48 palas
 7 lapiceras
+2 cajones
